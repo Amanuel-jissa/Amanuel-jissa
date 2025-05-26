@@ -1,6 +1,6 @@
 <!-- Banner image: Replace the link below with your own banner if you have one! -->
 <p align="center">
-  <img src="https://github.com/Amanuel-jissa/Amanuel-jissa/assets/banner.png" alt="Amanuel Jissa Banner" width="100%" />
+  <img src="https://github.com/Amanuel-jissa/Amanuel-jissa/assets/220px-Clebsch_graph.png" alt="Amanuel Jissa Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Amanuel Jissa 👋</h1>
